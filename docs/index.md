@@ -3,12 +3,8 @@
 
 
 <font size="+12"><center>
-*&lt;Nome do Projeto&gt;*
+*Sistema Falcão Sombrio para Drones *
 </center></font>
-
->*Observação 1: A estrutura inicial deste documento é só um exemplo. O seu grupo deverá alterar esta estrutura de acordo com o que está sendo solicitado na disciplina.*
-
->*Observação 2: O índice abaixo não precisa ser editado se você utilizar o Visual Studio Code com a extensão **Markdown All in One**. Essa extensão atualiza o índice automaticamente quando o arquivo é salvo.*
 
 **Conteúdo**
 
@@ -28,7 +24,7 @@
 # Autores
 
 * Victor Hong
-* Aluno 2
+* Maurício Vicentini
 * Aluno 3
 * Aluno 4
 * Aluno 5
@@ -39,7 +35,9 @@
 
 # Descrição do Projeto
 
-*&lt;Introdução do projeto&gt;*
+*A missão do nosso grupo é reformular a arquitetura de software dos drones da Securus Dynamics, já que a versão atual apresenta diversos problemas relacionados ao desempenho, à segurança e à organização dos dados.
+
+Para resolver essas falhas, estamos desenvolvendo uma nova solução chamada Falcão Sombrio, que tem como objetivo permitir o controle remoto e autônomo dos drones por meio de uma infraestrutura distribuída, mais segura, eficiente e confiável.;*
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 *&lt;Descrição dos requisitos&gt;*
