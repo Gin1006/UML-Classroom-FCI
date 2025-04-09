@@ -28,7 +28,7 @@
 # Autores
 
 * Victor Hong
-* Aluno 2
+* Maurício Vicentini
 * Aluno 3
 * Aluno 4
 * Aluno 5
