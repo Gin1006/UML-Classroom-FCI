@@ -1,9 +1,9 @@
 <h2><a href= "https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a></h2>
-<h3><a href= "https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/sistemas-de-informacao">Sistemas de Informação</a></h3>
+<h3><a href= "https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/sistemas-de-informacao">Ciência da Computação</a></h3>
 
 
 <font size="+12"><center>
-*Sistema Falcão Sombrio para Drones *
+Sistema Falcão Sombrio para Drones 
 </center></font>
 
 **Conteúdo**
@@ -35,9 +35,9 @@
 
 # Descrição do Projeto
 
-*A missão do nosso grupo é reformular a arquitetura de software dos drones da Securus Dynamics, já que a versão atual apresenta diversos problemas relacionados ao desempenho, à segurança e à organização dos dados.
+A missão do nosso grupo é reformular a arquitetura de software dos drones da Securus Dynamics, já que a versão atual apresenta diversos problemas relacionados ao desempenho, à segurança e à organização dos dados.
 
-Para resolver essas falhas, estamos desenvolvendo uma nova solução chamada Falcão Sombrio, que tem como objetivo permitir o controle remoto e autônomo dos drones por meio de uma infraestrutura distribuída, mais segura, eficiente e confiável.;*
+Para resolver essas falhas, estamos desenvolvendo uma nova solução chamada Falcão Sombrio, que tem como objetivo permitir o controle remoto e autônomo dos drones por meio de uma infraestrutura distribuída, mais segura, eficiente e confiável.;
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 *&lt;Descrição dos requisitos&gt;*
