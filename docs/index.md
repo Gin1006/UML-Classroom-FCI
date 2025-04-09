@@ -40,19 +40,19 @@ A missão do nosso grupo é reformular a arquitetura de software dos drones da S
 Para resolver essas falhas, estamos desenvolvendo uma nova solução chamada Falcão Sombrio, que tem como objetivo permitir o controle remoto e autônomo dos drones por meio de uma infraestrutura distribuída, mais segura, eficiente e confiável.;
 
 # Análise de Requisitos Funcionais e Não-Funcionais
-*&lt;Descrição dos requisitos&gt;*
+https://docs.google.com/document/d/1vyqICATH1ekR1fh8oeI_Fk5-xubqcbvZksUnunHu9Os/edit?usp=sharing
+
 
 # Diagrama de Atividades
-
-*&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
+https://drive.google.com/file/d/1vPYK756bJZwLXi42X143GqLYsgXZ86YM/view?usp=sharing
 
 # Diagrama de Casos de Uso
-
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+https://drive.google.com/file/d/1k6QwRQLlN-qiKSLSOVQEn-8NoR4mieqO/view?usp=sharing
 
 # Descrição dos Casos de Uso
 
-*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
+https://mackenzie365-my.sharepoint.com/:w:/g/personal/10425852_mackenzista_com_br/Ed3k0pXr9BpFsfnV76MrqLoBoqbN74IKRgVHT1Xz2YaFMw?e=OOx2Mu
+*link funciona somente com o email do mackenzie*
 
 # Diagrama de Sequência
 
