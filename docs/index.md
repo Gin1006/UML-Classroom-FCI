@@ -50,6 +50,10 @@ https://mackenzie365-my.sharepoint.com/:w:/g/personal/10425852_mackenzista_com_b
 # Diagrama de Sequência
 
 https://drive.google.com/file/d/1O1SQOjGgONiEWxHXFmQY0fDGXgHn7ZPf/view?usp=sharing
+![image](https://github.com/user-attachments/assets/186ee986-108c-4b1f-bc05-01c798b2a24f)
+![image](https://github.com/user-attachments/assets/7c296662-83b5-4be9-9c2d-d2e6206eda7a)
+
+
 
 # Diagrama de Classes
 
@@ -61,7 +65,7 @@ https://drive.google.com/file/d/1200TgL3_3Y-pcv8TMLmdlidJeE7ROqOq/view?usp=shari
 
 # Diagrama de Implantação
 
-https://drive.google.com/file/d/1UcRV6_2cpMgrCgPaZrT9mB8qDAmPvXRq/view?usp=sharing
+https://drive.google.com/file/d/1lkybcm5pGJxIjOb95o2mrW8lXnlg7O2x/view?usp=sharing
 
 # Referências
 
