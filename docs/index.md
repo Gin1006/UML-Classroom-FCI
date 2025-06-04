@@ -25,13 +25,6 @@ Sistema Falcão Sombrio para Drones
 
 * Victor Hong
 * Maurício Vicentini
-* Aluno 3
-* Aluno 4
-* Aluno 5
-* Aluno 6
-* Aluno 7
-* Aluno 8
-
 
 # Descrição do Projeto
 
@@ -56,20 +49,20 @@ https://mackenzie365-my.sharepoint.com/:w:/g/personal/10425852_mackenzista_com_b
 
 # Diagrama de Sequência
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+https://drive.google.com/file/d/1UcRV6_2cpMgrCgPaZrT9mB8qDAmPvXRq/view?usp=sharing
 
 # Diagrama de Classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+https://drive.google.com/file/d/1ZbixD2MtB9747s39FsRopv8Iv75fzlGJ/view?usp=sharing
 
 # Diagrama de Estados
 
-*&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
+https://drive.google.com/file/d/1200TgL3_3Y-pcv8TMLmdlidJeE7ROqOq/view?usp=sharing
 
 # Diagrama de Implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+https://drive.google.com/file/d/1UcRV6_2cpMgrCgPaZrT9mB8qDAmPvXRq/view?usp=sharing
 
 # Referências
 
-*&lt;Lista de referências&gt;*
+Slides compartilhados em aula.
