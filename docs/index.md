@@ -49,7 +49,7 @@ https://mackenzie365-my.sharepoint.com/:w:/g/personal/10425852_mackenzista_com_b
 
 # Diagrama de Sequência
 
-https://drive.google.com/file/d/1UcRV6_2cpMgrCgPaZrT9mB8qDAmPvXRq/view?usp=sharing
+https://drive.google.com/file/d/1O1SQOjGgONiEWxHXFmQY0fDGXgHn7ZPf/view?usp=sharing
 
 # Diagrama de Classes
 
